@@ -1,0 +1,23 @@
+.wrapper{
+  background-color: aquamarine;
+  height:450px;
+  width:400px;
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+.move{
+  text-align: center;
+  padding:20px;
+}
+#res{
+  margin:15px;
+  font-size:2.5em;
+  padding:5px;
+  border-radius: 20px;
+  background-color: rgb(253, 251, 255);
+}
+#res:hover{
+  background-color: black;
+  color:rgb(253, 253, 251);
+}

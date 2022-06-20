@@ -1,0 +1,11 @@
+.buttonbox{
+  display:grid;
+  height:360px;
+  width:360px;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3,1fr);
+  grid-gap:10px;
+  box-sizing: border-box;
+  /* padding-left: 20px; */
+
+}
